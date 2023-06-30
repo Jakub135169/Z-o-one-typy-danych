@@ -1,0 +1,8 @@
+C:\Users\jradz\OneDrive\Pulpit\Złożone typy danych\Złożone typy danych nr 1\bin\Debug\Złożone typy danych nr 1.exe.config
+C:\Users\jradz\OneDrive\Pulpit\Złożone typy danych\Złożone typy danych nr 1\bin\Debug\Złożone typy danych nr 1.exe
+C:\Users\jradz\OneDrive\Pulpit\Złożone typy danych\Złożone typy danych nr 1\bin\Debug\Złożone typy danych nr 1.pdb
+C:\Users\jradz\OneDrive\Pulpit\Złożone typy danych\Złożone typy danych nr 1\obj\Debug\Złożone typy danych nr 1.csproj.AssemblyReference.cache
+C:\Users\jradz\OneDrive\Pulpit\Złożone typy danych\Złożone typy danych nr 1\obj\Debug\Złożone typy danych nr 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\jradz\OneDrive\Pulpit\Złożone typy danych\Złożone typy danych nr 1\obj\Debug\Złożone typy danych nr 1.csproj.CoreCompileInputs.cache
+C:\Users\jradz\OneDrive\Pulpit\Złożone typy danych\Złożone typy danych nr 1\obj\Debug\Złożone typy danych nr 1.exe
+C:\Users\jradz\OneDrive\Pulpit\Złożone typy danych\Złożone typy danych nr 1\obj\Debug\Złożone typy danych nr 1.pdb
